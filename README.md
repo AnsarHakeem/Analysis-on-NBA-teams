@@ -1,3 +1,4 @@
 # Python-Project
-The data is of ABC Company 
-Data contains Employee Name , number , age , height , weight, college and salary
+Analysis on NBA players with their age and salary.
+found out who earns more with their position and age.
+and the data contains player names, club , age , position , height , weight , college and salary.
